@@ -1,0 +1,12 @@
+PROGRAMM TEST
+BEGIN
+IF 1 == 2
+#123
+  PRINT SQRT(123); #123
+ELSE 
+	1 + 2;
+VAR B = 2;
+VAR C = 3;
+VAR D = B + C;
+PRINT B;
+END
